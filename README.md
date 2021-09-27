@@ -2,7 +2,8 @@
 persian/farsi handwrite to text with keras and data extraction
 
 This project is 
-![aks1](https://user-images.githubusercontent.com/47675705/134969377-0deccf78-6a9e-4e34-a32d-e1bdf0aac9d6.jpg | width = 480)
+
+![aks1](https://user-images.githubusercontent.com/47675705/134969377-0deccf78-6a9e-4e34-a32d-e1bdf0aac9d6.jpg){:width = 400px}
 
 
 
