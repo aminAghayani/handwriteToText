@@ -15,4 +15,4 @@ you can see some of these extracted characters and numbers down below
 
 After training a CNN network with 28x28 extracted characters I reached about 90 percent of train and 88 percent of test accuracy
 
-better and wider dataset can help improve these numbers so much
+Better and wider dataset can help improve these numbers so much
